@@ -23,3 +23,7 @@ AI Fashion Stylist is a smart assistant that provides personalized fashion styli
 - Requests
 
 ## Live Demo : https://huggingface.co/spaces/ilsa15/Fashion-Advisor-App
+
+
+## screenshots: 
+-https://github.com/ilsafaisal15/AI-Fashion-Advisor/blob/main/ai%20fashion.png?raw=true
