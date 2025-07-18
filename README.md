@@ -1,6 +1,6 @@
 # 👗 AI Fashion Stylist
 
-AI Fashion Stylist is a smart assistant that provides personalized fashion styling based on your selected dress type, occasion, season, and hair profile — with optional photo upload. It generates fashion recommendations using the powerful **LLaMA 3 model (via Groq API)**.
+AI Fashion Stylist is a smart assistant that provides personalized fashion styling based on your selected dress type, occasion, season, and hair profile  with optional photo upload. It generates fashion recommendations using the powerful **LLaMA 3 model (via Groq API)**.
 
 
 
@@ -27,3 +27,6 @@ AI Fashion Stylist is a smart assistant that provides personalized fashion styli
 
 ## screenshots: 
 -https://github.com/ilsafaisal15/AI-Fashion-Advisor/blob/main/ai%20fashion.png?raw=true
+-https://github.com/ilsafaisal15/AI-Fashion-Advisor/blob/main/Screenshot%202025-07-18%20180425.png?raw=true
+
+---
